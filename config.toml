@@ -5,7 +5,7 @@ languageCode = 'ja'
 defaultContentLanguage = 'ja'
 HasCJKLanguage = true
 title = "じきおの部屋"
-paginate = 6
+pagination.pagerSize = 6
 copyright = "© 2023 Jikky"
 googleAnalytics = "G-DE6YGS2LJS"
 
