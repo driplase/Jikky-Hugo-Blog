@@ -7,7 +7,7 @@ HasCJKLanguage = true
 title = "じきおの部屋"
 pagination.pagerSize = 6
 copyright = "© 2023 Jikky"
-googleAnalytics = "G-DE6YGS2LJS"
+# googleAnalytics = "G-DE6YGS2LJS"
 
 enableGitInfo = true
 [frontmatter]
