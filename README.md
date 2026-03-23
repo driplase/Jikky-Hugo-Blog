@@ -1,1 +1,1 @@
-# [Jikky.dev](https://Jikky.dev)
+# [Jikky.lase.dev](https://Jikky.lase.dev)
